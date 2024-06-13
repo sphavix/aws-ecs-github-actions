@@ -14,3 +14,5 @@ GitHub Account
 ##### npm install express
 ##### npm install node-fetch
 ##### node index.js
+
+https://medium.com/@zwelakhespha/deploy-node-js-app-to-amazon-ecs-using-github-actions-and-iac-using-terraform-2489035c3097
