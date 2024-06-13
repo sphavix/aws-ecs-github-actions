@@ -5,9 +5,9 @@ on:
       - main
 env:
   AWS_REGION: ap-south-1
-  ECS_CLSUTER: pokemone_cluster
+  ECS_CLSUTER: pokemon_cluster
   CONTAINER_NAME: pokemon
-  ECS_SERVICE: pokemone_service
+  ECS_SERVICE: pokemon_service
   ECS_TD: .github/workflows/task.json
 
 jobs:
